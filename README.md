@@ -21,3 +21,4 @@ To gain valuable experience and knowledge in the field of Diploma Information Te
 - Gender: Female
 - Civil Status: Single
 
+<img src="Angel.jpg" alt="Angel">
